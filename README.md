@@ -2,6 +2,12 @@
 
 React/Vite customer webstore for the Simple Python POS system.
 
+Live site:
+
+```text
+https://patala-pay-webstore.vercel.app/
+```
+
 ## Local Development
 
 ```powershell
@@ -26,3 +32,9 @@ VITE_API_BASE=https://your-public-pos-api-url
 ```
 
 Use a permanent public API URL for products, customer login, order creation, and PayFast redirects.
+
+When the POS API is deployed, set its `PUBLIC_STORE_URL` to:
+
+```text
+https://patala-pay-webstore.vercel.app
+```
