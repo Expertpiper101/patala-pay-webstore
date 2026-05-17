@@ -28,7 +28,7 @@ Use these Vercel settings:
 Set this Vercel environment variable before deploying:
 
 ```text
-VITE_API_BASE=https://your-public-pos-api-url
+VITE_API_BASE=https://patala-pay-pos-api.vercel.app
 ```
 
 Use a permanent public API URL for products, customer login, order creation, and PayFast redirects.
