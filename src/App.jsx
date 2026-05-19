@@ -43,7 +43,7 @@ function productPlaceholder(product) {
 }
 
 function businessLogoPlaceholder() {
-  return "data:image/svg+xml;charset=UTF-8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 220 120'%3E%3Crect width='220' height='120' rx='18' fill='%23eefbf7'/%3E%3Ctext x='110' y='68' text-anchor='middle' font-size='26' font-family='Segoe UI, Arial' font-weight='700' fill='%230f766e'%3ELOGO%3C/text%3E%3C/svg%3E";
+  return "/assets/patala-pay-logo.png";
 }
 
 function currentViewFromHash() {
